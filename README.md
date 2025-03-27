@@ -3,45 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NLC 2025 Spring Seeding Matches</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        table {
-            width: 80%;
-            margin: 20px auto;
-            border-collapse: collapse;
-            background: white;
-            border: 2px solid black;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #333;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-        .highlight {
-            color: red;
-            font-weight: bold;
-        }
-        .date-row td {
-            border-top: 3px solid black;
-        }
-    </style>
-</head>
+    </head>
 <body>
     <h1>NLC 2025 Spring Seeding Matches</h1>
     <table>
