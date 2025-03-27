@@ -1,5 +1,3 @@
-# NLC
-NLC 2025 Spring Seeding
 <!DOCTYPE html>
 <html lang="en">
 <head>
